@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Problem cache or checkpoint
+*.pkl
+*.gz
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environment / virtualenv
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Streamlit cache and logs
+.streamlit/cache/
+.streamlit/config.toml
+.streamlit/credentials.toml
+
+# VSCode / PyCharm IDE
+.vscode/
+.idea/
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
